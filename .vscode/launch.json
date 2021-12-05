@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ColoniasApplication<colonias>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.zorrillo.colonias.ColoniasApplication",
+            "projectName": "colonias",
+            "args": ""
+        }
+    ]
+}
